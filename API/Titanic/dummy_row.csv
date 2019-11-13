@@ -1,0 +1,2 @@
+PassengerId,Survived,Pclass,Age,SibSp,Parch,Fare,Cabin,Title,Sex_female,Sex_male,Embarked_C,Embarked_Q,Embarked_S
+0,0,0,0,0,0,0,0,0,0,0,0,0,0
